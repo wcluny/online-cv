@@ -7,61 +7,45 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Allen Wong
+    tagline: Full Stack Engineer
+    avatar: _.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: wcluny@gmail.com
+    timezone: Hong Kong Timezone
+    linkedin: allen-wong-677312168
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Cantonese
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: General
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Hiking
           link:
 
-        - item: Snowboarding
+        - item: Photography
           link:
 
-        - item: Cooking
+        - item: Music
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A full stack engineer who has been involved in many different areas. With 6+ years of full stack development experience (web/server/DB), and a considerable degree of knowledge and practical experience in mobile app development, design and UI/UX.
+
+        Expertise in analyzing customer needs and providing practical and reliable solutions, efficient use of resources and implementation of projects. Ability to work with a diverse team and problem solving skills. Interest in any untouched and new technology.
+
+        Technology Stack: Node.js, Python, PHP, javascript, AngularJS, HTML, CSS, SQL, MongoDB, firebase, web socket, UI/UX, Docker, AWS and GCP.
+        
 education:
     title: Education
     info:
