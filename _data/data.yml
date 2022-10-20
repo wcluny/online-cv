@@ -43,8 +43,6 @@ career-profile:
       A full stack engineer who has been involved in many different areas. With 6+ years of full stack development experience (web/server/DB), and a considerable degree of knowledge and practical experience in mobile app development, design and UI/UX.
 
         Expertise in analyzing customer needs and providing practical and reliable solutions, efficient use of resources and implementation of projects. Ability to work with a diverse team and problem solving skills. Interest in any untouched and new technology.
-
-        Technology Stack: Node.js, Python, PHP, javascript, AngularJS, HTML, CSS, SQL, MongoDB, firebase, web socket, UI/UX, Docker, AWS and GCP.
         
 education:
     title: Education
@@ -110,6 +108,7 @@ experiences:
             - Assist developer in programming
             - Develop and deploy websites and servers for brands
             - Data mining and build a database of existing diseases
+            
       - role: Full Stack Web & Mobile Developer
         time: 2016 - 2017
         company: MINDLAYER LIMITED
