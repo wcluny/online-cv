@@ -82,5 +82,65 @@ experiences:
             - Based on the customer's budget and needs, we select the right platform and service, design, develop and deploy and release digital solution product
             - Provide onsite technical staff support to customers
 
+      - role: Consultant & Full-Stack Engineer
+        time: 2017 - 2018
+        company: Perfect Shape (Holdings) Limited
+        details: |
+            - Analyze the existing system and update it
+            - Close cooperation with designers redesign and develop existing website and develop many new event websites
+            - Develop backend server support for events
+            - Assist marketer in digital marketing
+            
+      - role: Consultant & Head of UI/UX
+        time: 2018 - 2018
+        company: DrApp
+        details: |
+            - Research market demand, analyze the business structure and feasibility and carry out planning Conversion to UML
+            - Assist in setting up the developer team and explain the business
+            - Design DrApp Wireframe
+            - Manage UI team and provide UX comments
+            - Collaborate with designer team to design web and mobile app
+            - Intermediary communication for designers & frontend developers
+            - Assist developer in programming
+            - Develop and deploy websites and servers for brands
+            - Data mining and build a database of existing diseases
+            
+      - role: Full Stack Web & Mobile Developer
+        time: 2016 - 2017
+        company: MINDLAYER LIMITED
+        details: |
+            - Research market demand, planning, design, develop and experiment any NLP use case
+            - Planning, design and develop an integrated AI chat management platform website for the entire front-end and back-end
+            - Understanding customer needs, provide technical solutions, design and develop custom-made web, mobile app, plugin and library
+            - Data mining for NLP training
+
+      - role: Freelancer
+        time: 2012 - 2016
+        company: Freelance
+        details: |
+            Freelance Graphic Designer
+                - Design web, business card, leaflet, menu and book
+            Freelance Programmer
+                - Develop web, mobile app, tool and plugin
+            Freelance IT Support
+                - Onsite PC repair, software install, remove computer virus, setup device like NAS,wifi,printer,etc
+            
+      - role: Junior IT Supporter
+        time: 2013 - 2013
+        company: VINCI Construction Grands Projets
+        details: |
+            - Setup,Maintain and Backup the file server
+            - Cabling, Setup and Allocate network, mail address and ip phone
+            - Purchasing and Management IT hardware and software
+            - Onsite and remote support staff technical issues
+            - Troubleshoot, Repair and Backup malfunctioning device
+            
+      - role: Game Developer
+        time: 2012 - 2013
+        company: Uniques Digital Game
+        details: |
+            - 4 People Startup, Made 3 Mobile Games with Unity
+            - UX design and UI programming, Game programming, 3D Modeling
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
