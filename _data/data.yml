@@ -141,6 +141,40 @@ experiences:
         details: |
             - 4 People Startup, Made 3 Mobile Games with Unity
             - UX design and UI programming, Game programming, 3D Modeling
+            
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: HTML5 & CSS3
+        level: 100%
+
+      - name: Javascript & jQuery
+        level: 95%
+
+      - name: node.js & Express
+        level: 95%
+
+      - name: AngularJS
+        level: 90%
+
+      - name: python
+        level: 80%
+        
+      - name: php & WordPress
+        level: 80%
+
+      - name: UI/UX
+        level: 75%
+        
+      - name: Project Management & UML
+        level: 85%
+        
+      - name: AWS & GCP
+        level: 70%
+        
+      - name: Docker
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
