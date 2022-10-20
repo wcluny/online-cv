@@ -47,11 +47,11 @@ career-profile:
 education:
     title: Education
     info:
-        - degree: Bachelor of Computing
+      - degree: Bachelor of Computing
         university: Hong Kong Metropolitan University
         time: 2013 - 2015
         details: |
-        - degree: Higher Diploma in Multimedia Web Development and Digital Entertainment, Multimedia &amp; Information Technology
+      - degree: Higher Diploma in Multimedia Web Development and Digital Entertainment, Multimedia & Information Technology
         university: Hong Kong Institute of Vocational Education
         time: 2011 - 2013
         details: |
