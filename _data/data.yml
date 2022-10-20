@@ -55,6 +55,23 @@ education:
         university: Hong Kong Institute of Vocational Education
         time: 2011 - 2013
         details: |
+        
+experiences:
+    title: Experiences
+    info:
+      - role: Co-Founder & CTO / Full-Stack Engineer
+        time: 2018 - Present
+        company: InzTech Limited
+        details: |
+            - Provide technical and business analysis to customers and provide suitable digital solutions
+            - Analyze customer's existing system (such as CMS, CRM) and provide advice
+            - Based on the customer's budget and needs, we select the right platform and service, design, develop and deploy and release digital solution product
+            - Manage budget, resources, staff, make division of labor
+            - Responsible for managing projects, conducting risk assessments, tracking progress, assisting in development, handling contingencies, and ensuring on-time delivery
+            - Manage developers and communicate with designers
+            - Customized website development for customers in different platforms and languages, like html, php, wordpress, wix, shopify etc
+            - Develop back-end servers for web and mobile app for customers
+            - Provide website maintenance, DB data transfer, migration, integration and backup for customers
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
