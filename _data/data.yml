@@ -17,6 +17,10 @@ sidebar:
     linkedin: allen-wong-677312168
 
     languages:
+      title: Vaccine Pass
+      info:
+        - item: NO
+        
       title: Languages
       info:
         - idiom: Cantonese
@@ -36,11 +40,6 @@ sidebar:
 
         - item: Music
           link:
-          
-    Vaccine Pass:
-      title: Vaccine Pass
-      info:
-        - item: NO
 
 career-profile:
     title: Career Profile
