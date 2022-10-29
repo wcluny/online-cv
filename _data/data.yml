@@ -36,6 +36,11 @@ sidebar:
 
         - item: Music
           link:
+          
+    Vaccine Pass:
+      title: Vaccine Pass
+      info:
+        - item: NO
 
 career-profile:
     title: Career Profile
